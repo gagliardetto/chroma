@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/alecthomas/chroma/v2"
-	"github.com/alecthomas/chroma/v2/lexers"
+	"github.com/alecthomas/chroma"
+	"github.com/alecthomas/chroma/lexers"
 )
 
 func TestIssue290(t *testing.T) {

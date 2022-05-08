@@ -7,7 +7,7 @@ import (
 
 	"github.com/dlclark/regexp2"
 
-	. "github.com/alecthomas/chroma/v2" // nolint
+	. "github.com/alecthomas/chroma" // nolint
 )
 
 // Raku lexer.
